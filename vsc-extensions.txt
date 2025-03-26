@@ -1,0 +1,18 @@
+Extensões instaladas em Codespaces: vigilant space happiness:
+aslamanver.vsc-export
+bradlc.vscode-tailwindcss
+dsznajder.es7-react-js-snippets
+ecmel.vscode-html-css
+esbenp.prettier-vscode
+etsi0.class-collapse
+formulahendry.auto-rename-tag
+github.codespaces
+github.github-vscode-theme
+github.vscode-pull-request-github
+kisstkondoros.vscode-gutter-preview
+ms-ceintl.vscode-language-pack-pt-br
+pkief.material-icon-theme
+prisma.prisma
+rangav.vscode-thunder-client
+ritwickdey.liveserver
+yanesnicolas.next-react-es7-snippets
